@@ -30,7 +30,7 @@ const Features = () => {
           variant="paragraph"
           component="p"
           sx={{
-            fontFamily: "BlacksansLight",
+            fontFamily: "BlackSansLight",
             fontSize: "18px",
             lineHeight: "27px",
             marginTop: "1rem",
@@ -94,7 +94,7 @@ const Features = () => {
             }}
           >
             Experience the ease of creating time-off <br /> benefit and
-            onboarding and offboarding
+            onboarding and offloading
           </Typography>
         </Box>
 
@@ -504,7 +504,7 @@ const Features = () => {
             }}
           >
             MyEdge app has features that manage employee <br /> information that
-            helps achieve a stress-free and <br /> personalised self-service
+            helps achieve a stress-free and <br /> personalized self-service
             experience.
           </Typography>
         </Box>
