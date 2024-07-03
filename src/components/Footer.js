@@ -3,8 +3,6 @@ import { Box, Container } from "@mui/material";
 import Typography from "@mui/material/Typography";
 import BizLogo from "../assets/BizEdgeLogo.png";
 import Apps from "../assets/Frame 2439.png";
-import BlackSansSemiBold from "../fonts/blacksanssemiboldwebfont647663a8d54cb4e2551213de87a56073.woff";
-import BlackSansRegular from "../fonts/blacksansregularwebfontd6761cbf250866e8870d97f03fa629a8.woff";
 
 const Footer = () => {
   return (

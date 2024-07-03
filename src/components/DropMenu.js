@@ -1,11 +1,6 @@
 import { Box, Button, Container } from "@mui/material";
 import React from "react";
 import Typography from "@mui/material/Typography";
-import BlackSansSemiBold from "../fonts/blacksanssemiboldwebfont647663a8d54cb4e2551213de87a56073.woff";
-import BlackSansThin from "../fonts/blacksansthinwebfont.woff";
-import BlackSansLight from "../fonts/blacksanslightwebfont.woff";
-import BlackSansRegular from "../fonts/blacksansregularwebfontd6761cbf250866e8870d97f03fa629a8.woff";
-import BlackSansBold from "../fonts/blacksansboldwebfont949ef363c646d9c2456af9d67a94778f.woff";
 import KeyboardArrowDownIcon from "@mui/icons-material/KeyboardArrowDown";
 
 const DropMenu = () => {

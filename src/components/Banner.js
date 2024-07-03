@@ -4,10 +4,6 @@ import GroupsIcon from "@mui/icons-material/Groups";
 import ReceiptLongIcon from "@mui/icons-material/ReceiptLong";
 import LeftImg from "../assets/Group 8893.png";
 import RightImg from "../assets/Group 1539.png";
-import BlackSansSemiBold from "../fonts/blacksanssemiboldwebfont647663a8d54cb4e2551213de87a56073.woff";
-import BlackSansThin from "../fonts/blacksansthinwebfont.woff";
-import BlackSansLight from "../fonts/blacksanslightwebfont.woff";
-import BlackSansRegular from "../fonts/blacksansregularwebfontd6761cbf250866e8870d97f03fa629a8.woff";
 
 const Banner = () => {
   return (

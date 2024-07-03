@@ -1,10 +1,5 @@
 import { Container, Typography, Box } from "@mui/material";
 import Paper from "@mui/material/Paper";
-import BlackSansSemiBold from "../fonts/blacksanssemiboldwebfont647663a8d54cb4e2551213de87a56073.woff";
-import BlackSansThin from "../fonts/blacksansthinwebfont.woff";
-import BlackSansLight from "../fonts/blacksanslightwebfont.woff";
-import BlackSansRegular from "../fonts/blacksansregularwebfontd6761cbf250866e8870d97f03fa629a8.woff";
-import BlackSansBold from "../fonts/blacksansboldwebfont949ef363c646d9c2456af9d67a94778f.woff";
 
 const BusinessPlans = () => {
   return (
@@ -57,6 +52,8 @@ const BusinessPlans = () => {
           sx={{
             borderRadius: "16px",
             backgroundColor: "#F2F2F2",
+            width: "220px",
+            height: "220px"
           }}
         >
           <Box padding={4}>
@@ -93,6 +90,8 @@ const BusinessPlans = () => {
           sx={{
             borderRadius: "16px",
             backgroundColor: "#F2F2F2",
+            width: "220px",
+            height: "220px"
           }}
         >
           <Box padding={3.4}>
@@ -129,6 +128,8 @@ const BusinessPlans = () => {
           sx={{
             borderRadius: "16px",
             backgroundColor: "#F2F2F2",
+            width: "220px",
+            height: "220px"
           }}
         >
           <Box padding={3.4}>
@@ -165,6 +166,8 @@ const BusinessPlans = () => {
           sx={{
             borderRadius: "16px",
             backgroundColor: "#F2F2F2",
+            width: "220px",
+            height: "220px"
           }}
         >
           <Box padding={3.4}>
