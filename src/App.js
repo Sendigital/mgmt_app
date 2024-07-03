@@ -7,7 +7,7 @@ import BusinessPlans from './components/BusinessPlans';
 import DropMenu from './components/DropMenu';
 import Footer from './components/Footer';
 
-function App() {
+const App = () => {
   return (
     <Container>
 

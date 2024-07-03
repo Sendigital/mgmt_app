@@ -129,7 +129,7 @@ const Features = () => {
         <Box
           sx={{
             position: "absolute",
-            left: 350,
+            left: 307,
             zIndex: 1,
           }}
         >
@@ -450,8 +450,8 @@ const Features = () => {
         <Box
           sx={{
             position: "absolute",
-            bottom: -1690,
-            left: 670,
+            bottom: -1800,
+            left: 630,
           }}
         >
           <img src={PieChart} alt="Chart" width="480px" height="420px" />
@@ -522,7 +522,7 @@ const Features = () => {
           sx={{
             position: "absolute",
             left: 720,
-            bottom: -2340,
+            bottom: -2440,
           }}
         >
           <img
