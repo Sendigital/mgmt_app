@@ -170,7 +170,6 @@ const Features = () => {
           <Button
             variant="contained"
             sx={{
-              color: "#000",
               fontFamily: "BlackSansSemiBold",
               fontSize: "8px",
               color: "#171717",
@@ -186,14 +185,12 @@ const Features = () => {
             <Button
               variant="contained"
               sx={{
-                color: "#000",
                 fontFamily: "BlackSansSemiBold",
                 fontSize: "8px",
                 color: "#FFFFFF",
                 marginLeft: "45px",
                 backgroundColor: "#545454",
                 width: "90px",
-                // paddingX: "1.5rem"
               }}
             >
               On-Site
@@ -204,7 +201,6 @@ const Features = () => {
             width="203px"
             height="138px"
             sx={{
-              // border: "2px solid green",
               borderRadius: "14px",
               backgroundColor: "#fff",
               boxShadow: "0px 1px 1px 0.5px",
